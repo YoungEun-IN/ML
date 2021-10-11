@@ -2,7 +2,7 @@
 
 <h2>1. Neural Networks and Deep Learning</h2>
 <ol>
-<li><a href="https://youngeun-in.github.io/ML/Deep-Learning-Specialization/1.%20Neural%20Networks%20and%20Deep%20Learning/Week%201%20Introduction%20to%20Deep%20Learning/Introduction%20to%20Deep%20Learning%.pdf">Introduction to Deep Learning</a></li>
+<li><a href="https://youngeun-in.github.io/ML/Deep-Learning-Specialization/1.%20Neural%20Networks%20and%20Deep%20Learning/Week%201%20Introduction%20to%20Deep%20Learning/Introduction%20to%20Deep%20Learning.pdf">Introduction to Deep Learning</a></li>
 <li><a href="https://youngeun-in.github.io/ML/Deep-Learning-Specialization/1.%20Neural%20Networks%20and%20Deep%20Learning/Week%202%20Neural%20Networks%20Basics/Neural%20Network%20Basics.pdf">Neural Network Basics</a></li>
 <li><a href="https://youngeun-in.github.io/ML/Deep-Learning-Specialization/1.%20Neural%20Networks%20and%20Deep%20Learning/Week%203%20Shallow%20Neural%20Networks/Shallow%20Neural%20Networks.pdf">Shallow Neural Networks</a></li>
 <li><a href="https://youngeun-in.github.io/ML/Deep-Learning-Specialization/1.%20Neural%20Networks%20and%20Deep%20Learning/Week%204%20Deep%20Neural%20Networks/Key%20Concepts%20on%20Deep%20Neural%20Networks.pdf">Key Concepts on Deep Neural Networks</a></li>
